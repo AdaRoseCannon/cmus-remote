@@ -12,6 +12,6 @@
     "terminal-kit": "^1.26.11"
   },
   "bin": {
-    "cmus-remote": "index.js"
+    "my-cmus-remote": "index.js"
   }
 }
