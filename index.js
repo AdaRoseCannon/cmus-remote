@@ -1,4 +1,4 @@
-#!/bin/node
+#! /usr/bin/env node
 
 var term = require( 'terminal-kit' ).terminal ;
 const util = require('util');
